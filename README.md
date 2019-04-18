@@ -1,4 +1,6 @@
-About
+#CheckNMR
+
+##About
 
 This script can check the status of the 600 bruker, 500 bruker, 
 500 varian, and 300 varian NMR computers. When run, it will log 
@@ -7,7 +9,7 @@ someone is logged into TTY :0, you can assume that they are sitting
 at the computer.
 
 
-Installation
+##Installation
 
 The script can be run immediately by logging into hotwax.uoregon.edu, 
 copying the script into any directory and running it using the command:
@@ -27,7 +29,6 @@ it asks for. Then run:
 
 Use okra, kale, gumbo, and leek for the "computername". After running 
 this four times to copy your ssh onto each computer, you will no longer 
-
 need a password to log onto these computers from hotwax.uoregon.edu. 
 Now when you run the script it will no longer require logging into each 
 computer.
