@@ -11,7 +11,3 @@ ssh kale.uoregon.edu 'w'
 printf "\nStatus for Varian 500\n"
 
 ssh gumbo.uoregon.edu 'w'
-
-printf "\nStatus for Varian 300\n"
-
-ssh leek.uoregon.edu 'w'
