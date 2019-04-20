@@ -10,12 +10,10 @@ assume that they are sitting at the computer.
 
 ## Installation
 
-Log into hotwax.uoregon.edu and run:
-```
-git clone https://github.com/CurtisColwell/CheckNMR.git
-```
-If you run the script immediately, it will ask you for your password when 
-it logs into each computer. To prevent this, set up an ssh key pair by running:
+Download this repository as a zip file and unzip it. Log into hotwax.uoregon.edu 
+and copy the unzipped folder onto the server. If you run the script immediately, 
+it will ask you for your password when it logs into each computer. To prevent this, 
+set up an ssh key pair by running:
 ```
 ssh-keygen -t rsa
 ```
